@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  BitAdjacencyGraph.cpp
+c:\users\mjbea\onedrive\documents\visualstudio projects\bitadjacencygraph\bitadjacencygraph\bitadjacencygraph.cpp(514): warning C4101: 'e': unreferenced local variable
+c:\users\mjbea\onedrive\documents\visualstudio projects\bitadjacencygraph\bitadjacencygraph\bitadjacencygraph.cpp(518): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  BitAdjacencyGraph.vcxproj -> C:\Users\mjbea\OneDrive\Documents\VisualStudio Projects\BitAdjacencyGraph\Debug\BitAdjacencyGraph.exe
+  BitAdjacencyGraph.vcxproj -> C:\Users\mjbea\OneDrive\Documents\VisualStudio Projects\BitAdjacencyGraph\Debug\BitAdjacencyGraph.pdb (Partial PDB)
